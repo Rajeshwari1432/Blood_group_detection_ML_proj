@@ -1,3 +1,10 @@
+📜 License and Copyright
+
+© 2025 Rajeshwari Tukaram Golande. All rights reserved.
+
+This project is for educational and personal use only. Commercial use is prohibited without permission.
+
+
 Blood Group Detection from Fingerprint Images 🩸🔍
 
 Aim
