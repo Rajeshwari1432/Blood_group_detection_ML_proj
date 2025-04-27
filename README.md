@@ -1,4 +1,5 @@
 Blood Group Detection from Fingerprint Images 🩸🔍
+
 Aim
 To create an automated deep learning model that can detect a person’s blood group from fingerprint images, making blood group verification non-invasive, fast, and reliable.
 
